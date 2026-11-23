@@ -19,4 +19,3 @@
 ## 5. Контакти та автори
 - **Автор:** r7vi
 - **GitHub:** [r7vi](https://github.com/r7vi)
-- # my-first-project
